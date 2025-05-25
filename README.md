@@ -36,7 +36,7 @@ The `vcd-vm-extraconfig` utility is designed for vCloud Director administrators 
 
 3. **Build the tool**:
    ```bash
-   go build -o vcd-vm-extraconfig vcd-vm-config.go
+   go build -o vcd-vm-extraconfig vcd-vm-extraconfig.go
    ```
 
 ## Docker Installation
