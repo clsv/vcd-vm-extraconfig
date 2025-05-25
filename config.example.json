@@ -1,0 +1,9 @@
+{
+    "api": "36.3",
+    "url": "https://vcd.example.com/api",
+    "org": "your-org",
+    "vdc": "vdc",
+    "vapp": "vapp",
+    "user": "your-user",
+    "password": "your-password"
+}
